@@ -2,7 +2,7 @@
 
 This document will teach you how to use Firefox data
 to answer questions about our users.
-It's hosted https://www.gitbook.com/read/book/harterrt/telemetry-docs[here].
+It's hosted [here](https://www.gitbook.com/read/book/harterrt/telemetry-docs).
 
 ## Using this document
 
