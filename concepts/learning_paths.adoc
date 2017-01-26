@@ -1,0 +1,28 @@
+:concepts: link:../concepts/
+
+= Getting Started
+
+This document is meant to be a complete guide to using Firefox Data,
+so it can look overwhelming at first.
+Luckily, we can omit most of this content for first time users.
+
+These readings will get you up and running quickly.
+After these readings, you should be able to produce simple analyses
+but you should definitely get your anayses reviewed.
+
+* {concepts}/analysis_intro.adoc[Analysis Intro]
+* Choosing a Dataset
+* User vs Session Weighting
+* STMO Intro
+* Getting Review
+
+// = Understanding our Data
+// This section contains in-depth documentation for each listed dataset.
+// If you're developing an analysis the relies on one of these datasets,
+// be sure to read the relavant documentation before committing to an answer.
+// 
+// = Advanced Analysis
+// 
+// This learning path will show you how to do advanced analysis of firefox data.
+// After completing these readings, you will be an expert user of telemetry data.
+// Feel free to work through these readings as needed.
