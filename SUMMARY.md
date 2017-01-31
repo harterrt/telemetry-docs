@@ -2,21 +2,26 @@
 * [Intro to Analysis](concepts/learning_paths.adoc)
   * [Analysis Quick Start](concepts/analysis_intro.adoc)
   * [Choosing a Dataset](concepts/choosing_a_dataset.md)
+  * User vs. Session Weighting
+  * STMO Introduction
+  * Getting Review
 * [Data Collection and Datasets](datasets/README.adoc)
   * Understanding our Data
     * How we collect data (pings, studies, experiments)
     * Choosing a dataset
     * Experimental vs Descriptive Data
+    * Getting Review
   * Dataset Reference
-    * Pings
+    * [Pings](datasets/pings.md)
     * Derived Datasets
       * Longitudinal
       * Cross Sectional
       * Main Summary
-      * Crash Summary
-      * ETC
-    * Experimental Datasets
-      * Accessing Shield Study data
+      * Client Count
+      * Crash Aggregates
+    * Experimental Data
+      * When and how to run experiments
+      * Tools for experimentation
 * [Tools](tools/README.adoc)
   * Interfaces
     * TMO & STMO
@@ -36,4 +41,5 @@
 
 * [About this Documentation](meta/README.md)
   * [Structure](meta/structure.md)
+  * [Trainings](meta/trainings.md)
   * [Contributing](meta/contributing.md)

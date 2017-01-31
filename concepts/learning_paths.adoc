@@ -10,6 +10,7 @@ These readings will get you up and running quickly.
 After these readings, you should be able to produce simple analyses
 but you should definitely get your anayses reviewed.
 
+* Our data principles
 * {concepts}/analysis_intro.adoc[Analysis Intro]
 * Choosing a Dataset
 * User vs Session Weighting
