@@ -1,4 +1,7 @@
 = Getting Started with Firefox Data
+
+This document may replace our current onboarding.
+
 // Introduces:
 //   * Pings
 

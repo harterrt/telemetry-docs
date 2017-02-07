@@ -8,9 +8,10 @@ Luckily, we can omit most of this content for first time users.
 
 These readings will get you up and running quickly.
 After these readings, you should be able to produce simple analyses
-but you should definitely get your anayses reviewed.
+but you should definitely get your analyses reviewed.
 
 * {concepts}/analysis_intro.adoc[Analysis Intro]
+* {concepts}/data_privacy.adoc[Data Privacy]
 * Choosing a Dataset
 * User vs Session Weighting
 * STMO Intro

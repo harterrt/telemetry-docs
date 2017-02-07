@@ -1,5 +1,6 @@
-* [Introduction](README.md)
-* [Intro to Analysis](concepts/learning_paths.adoc)
+* [Firefox Data Documentation](README.md)
+  * [Terminology](concepts/terminology.md)
+* [Getting Started](concepts/getting_started.adoc)
   * [Analysis Quick Start](concepts/analysis_intro.adoc)
   * [Choosing a Dataset](concepts/choosing_a_dataset.md)
 * [Data Collection and Datasets](datasets/README.adoc)
@@ -17,6 +18,7 @@
       * ETC
     * Experimental Datasets
       * Accessing Shield Study data
+  * [Collecting New Data](datasets/new_data.md)
 * [Tools](tools/README.adoc)
   * Interfaces
     * TMO & STMO

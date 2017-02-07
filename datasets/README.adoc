@@ -17,12 +17,12 @@ the relavent documentation.
 // * New hire, do we collect data?
 
 
-.Dataset Directory
-|===
-|Dataset Name    |Sampled? |Type
-
-|link:data/cross_sectional/README.md[Cross Sectional]
-|1% of clients
-|{derived}
-|===
-
+//.Dataset Directory
+//|===
+//|Dataset Name    |Sampled? |Type
+//
+//|link:data/cross_sectional/README.md[Cross Sectional]
+//|1% of clients
+//|{derived}
+//|===
+//

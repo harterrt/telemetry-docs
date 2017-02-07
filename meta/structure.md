@@ -14,8 +14,8 @@ familiar with the data platform:
 The prose documentation is meant to take the reader from neophyte to expert.
 To this end, the rendered documentation has an order different from the directory structure:
 
-* Quick start: Get some simple analysis completed so the user understands the
-  amount of work involved / what the product feels like
+* Getting Started: Get some simple analysis completed so the user understands
+  the amount of work involved / what the product feels like
 * Tutorials
   * Data Tutorials: tutorials meant to give the reader a complete understanding
     of a specific dataset. Start with a high level overview, then move on to
