@@ -8,8 +8,12 @@
     * How we collect data (pings, studies, experiments)
     * Choosing a dataset
     * Experimental vs Descriptive Data
+    * Sessions and Subsessions
+    * Dates, Timespans, & their caveats
+    * Profiles vs. Users
   * [Dataset Reference](datasets/reference.md)
     * Pings
+      * Opt-in vs Opt-out
     * Derived Datasets
       * Longitudinal
       * Cross Sectional
