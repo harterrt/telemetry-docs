@@ -7,7 +7,7 @@
     * How we collect data (pings, studies, experiments)
     * Choosing a dataset
     * Experimental vs Descriptive Data
-  * Dataset Reference
+  * [Dataset Reference](datasets/reference.md)
     * Pings
     * Derived Datasets
       * Longitudinal
@@ -32,6 +32,7 @@
       * Airflow
       * Presto
 * [Cookbooks](cookbooks/README.adoc)
+  * [Creating a custom re:dash dataset](cookbooks/create_a_dataset.adoc)
 
 
 * [About this Documentation](meta/README.md)
